@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 15 12:28:35 IST 2013
+swagger-springmvc-0.6.0-javadoc.jar>=
+swagger-springmvc-0.6.0.pom>=
+swagger-springmvc-0.6.0-sources.jar>=
+swagger-springmvc-0.6.0.jar>=
