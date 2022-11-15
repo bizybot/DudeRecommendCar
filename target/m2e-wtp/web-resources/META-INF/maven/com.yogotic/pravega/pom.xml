@@ -37,7 +37,7 @@
 		<neo4j.version>1.9.3</neo4j.version>
 		<neo4j-spring-data>2.3.4.RELEASE</neo4j-spring-data>
 
-		<fasterxml.jackson.version>2.10.1</fasterxml.jackson.version>
+		<fasterxml.jackson.version>2.12.7.1</fasterxml.jackson.version>
 		
 		<swagger-springmvc.version>0.6.0</swagger-springmvc.version>
 	</properties>
